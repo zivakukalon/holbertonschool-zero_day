@@ -1,1 +1,1 @@
-######THIS IS THE NEW ZIVA 2.0
+"**This file is mandatory in all Holberton School projects**"
